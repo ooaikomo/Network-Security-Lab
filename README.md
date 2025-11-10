@@ -1,4 +1,4 @@
-# 🧱 Network Security Project
+# 🧱 Network Security Setup
 
 ## 📘 Lab Concept
 This project demonstrates the **design, configuration, and security implementation** of a small multi-department network using **Access Control Lists (ACLs)**.  
