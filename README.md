@@ -39,7 +39,7 @@ All departments are connected via a **central router**, with ACLs configured to 
 | **Network Simulation** | Cisco Packet Tracer |
 | **Security Configuration** | Extended Access Control Lists (ACLs) |
 | **Operating Systems** | Cisco IOS (Router CLI) |
-| **Testing & Verification** | Ping tests, HTTP Access Tests, ACL & Interface Verification Commands |
+| **Testing & Verification** | Ping Tests, HTTP Access Tests, ACL & Interface Verification Commands |
 
 ---
 
