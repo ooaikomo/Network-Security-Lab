@@ -48,17 +48,6 @@ All departments are connected via a **central router**, with ACLs configured to 
 
 ---
 
-## 🚀 Next Steps / Future Improvements
-To expand and strengthen this lab in future iterations:
-- 🧱 **Integrate VLANs** to enhance segmentation and reduce broadcast domains.  
-- 🔐 **Implement Firewalls** for deeper packet inspection and perimeter defense.  
-- 📡 **Add Intrusion Detection Systems (IDS/IPS)** to identify and mitigate threats in real-time.  
-- 🧠 **Incorporate SIEM Tools** for centralized monitoring and log analysis.  
-- ⚙️ **Automate Configuration Backups** and network monitoring using Python scripts.  
-- 🌐 **Simulate External Threat Scenarios** to test ACL robustness under attack conditions.  
-
----
-
 ## 🧭 Conclusion
 This project highlights how **ACLs** can strengthen network security by limiting unnecessary communication and safeguarding sensitive information.  
 Through proper configuration and testing, each department’s access was aligned with its operational needs — achieving a **secure**, **efficient**, and **well-managed** network infrastructure.
